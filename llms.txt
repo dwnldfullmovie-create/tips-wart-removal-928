@@ -1,0 +1,12 @@
+# Tips wart removal 928 Hub
+> A modern health partners resource based in Austin, TX.
+
+## Site Index
+- [Home Page](/index.html): Portal overview for our services.
+- [About Us](/about.html): Our background and history.
+- [Contact](/contact.html): Office locations and communication form.
+## Publications
+- [Seasonal Wellness: Adapting Your Routine Throughout the Year](/seasonal-wellness-adapting-your-routine-throughout-the-year.html)
+- [Geotargeting Strategies for Distributed Networks](/geotargeting-strategies-for-distributed-networks.html)
+- [Securing API Communications in Decentralized Systems](/securing-api-communications-in-decentralized-systems.html)
+- [Measuring Operational Output in High-Performance Teams](/measuring-operational-output-in-high-performance-teams.html)
